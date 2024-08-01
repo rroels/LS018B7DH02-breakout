@@ -1,0 +1,8 @@
+kicad/lib/503480-1000/
+*-backups
+fp-info-cache
+*~
+.DS_Store
+*.lck
+\#auto_saved_files\#
+_autosave-*
