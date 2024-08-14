@@ -89,7 +89,7 @@ All capacitors and resistors and SMD 0603. Instead of the horizontal pin header 
 The Gerber file is in this repository (`gerber/LS018B7DH02-breakout.zip`). Simply upload this file a PCB manufacturer of your choice (JLPCB, PCBWay, ...), and you they will make it for you for as low as \$5 for 5 pieces (with the cheapest shipping option, which can take a few weeks).
 
 > [!WARNING]
-> Note that will still have to solder the components onto the PCB yourself!
+> Note that you will still have to solder the components onto the PCB yourself!
 
 ## How to Edit Design
 
